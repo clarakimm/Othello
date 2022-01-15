@@ -1,0 +1,96 @@
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\C# Program.exe
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\C# Program\bin\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.csprojAssemblyReference.cache
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\C# Program\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\C# Program.exe
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\bin\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.csprojAssemblyReference.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\C# Program\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\C# Program.exe
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\bin\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.csprojAssemblyReference.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.exe
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.csprojAssemblyReference.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Desktop\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.exe
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\bin\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.csprojAssemblyReference.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_VERSION2.cs\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\C# Program.exe
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\bin\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.csprojAssemblyReference.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.pdb
+C:\Users\clara\Documents\BME 1A Courses\BME 121 - Digital Computation\Assignments\PA1_Othello_FIX.cs\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
