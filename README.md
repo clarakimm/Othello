@@ -7,13 +7,14 @@ Summary of Game Rules:
 - Each move must result in outflanking and flipping the opponent's discs - i.e. cannot place discs at random locations on the grid 
 
 Interface:
-1) Prompts users to enter name, who will make the first move, and game board size 
-2) Displays game board with the initial set-up and current scores (number of discs on the board)
-3) Prompts users to enter a move:
-      Option #1: "x,y"- Checks to ensure the placement of the disc will outflank the opponent's discs in any of the 8 directions, executes flip and repeats "Enter your move" prompt 
-      Option #2: "skip" - Passes turn to the opponent 
-      Option #3: "quit"- Terminates Game & displays game results 
-      
-Assuming the the player enters in a coordinate in this case, the game goes on until the game board is full, or until there are no valid moves left for both players.
+1) Prompts users to enter name, who will make the first move, and game board size
+3) Displays game board with the initial set-up and current scores (number of discs on the board)
+4) Prompts users to enter a move:
 
-With there being no valid moves left, the game automatically terminates and displays the game results. 
+      Option #1: "x,y"- Checks to ensure the placement of the disc will outflank the opponent's discs in any of the 8 directions, executes flip and repeats "Enter your move"    prompt<br/><br/>
+      Option #2: "skip" - Passes turn to the opponent<br/><br/>
+      Option #3: "quit"- Terminates Game & displays game results <br/><br/>
+      
+5) Assuming the the player enters in a coordinate in this case, the game goes on until the game board is full, or until there are no valid moves left for both players
+6) When there are no valid moves left, the game automatically terminates and displays the game results
+
