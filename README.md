@@ -18,3 +18,4 @@ Interface:
 5) Assuming the the player enters in a coordinate in this case, the game goes on until the game board is full, or until there are no valid moves left for both players
 6) When there are no valid moves left, the game automatically terminates and displays the game results
 
+My code is contained within the "Othello.cs" file. Code used to display the gameboard was provided in class in the "Bme121.Program-Provided-Code_VERSION2.cs" file.
